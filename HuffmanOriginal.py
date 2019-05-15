@@ -4,7 +4,7 @@ import queue
 
 class HuffmanNode(object):
     def __init__(self, left=None, right=None, root=None):
-        self.left = lefta
+        self.left = leftaa
         self.right = right
     def children(self):
         return((self.left, self.right))
